@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012879070520",
+    "firebase_url": "https://tranokar4u.firebaseio.com",
+    "project_id": "tranokar4u",
+    "storage_bucket": "tranokar4u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012879070520:android:96a81b07edaa1259",
+        "android_client_info": {
+          "package_name": "com.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012879070520-7gfsp9uolk5d7tec7vmdel1idnmo3pvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-hjCgo8XvnIObhEd_WT6GB_pi6K8X00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
